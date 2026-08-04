@@ -1,0 +1,46 @@
+Started by user Anusha Bhaskar
+Running as SYSTEM
+Building remotely on CodeAlpha-Agent (codealpha) in workspace C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo
+[CodeAlpha_Remoting_Demo] $ cmd /c call C:\Users\anush\AppData\Local\Temp\jenkins10756961738921430300.bat
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo ==================================== 
+====================================
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo CodeAlpha Jenkins Remoting Demo 
+CodeAlpha Jenkins Remoting Demo
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo ==================================== 
+====================================
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo Running on Agent 
+Running on Agent
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>hostname
+AnushaBhaskar
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo.
+
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo Current User: 
+Current User:
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>whoami
+anushabhaskar\anush
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo.
+
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo Current Directory: 
+Current Directory:
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>cd
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo.
+
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>echo Build Successful! 
+Build Successful!
+
+C:\JenkinsAgent\workspace\CodeAlpha_Remoting_Demo>exit 0 
+Finished: SUCCESS
